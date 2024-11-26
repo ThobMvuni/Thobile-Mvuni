@@ -1,7 +1,7 @@
 # Thobile-Mvuni
 My portfolio readme
 
-# 📊 Jade's Data Science and Programming Portfolio
+# 📊 Thobile's Data Science and Programming Portfolio
 
 Welcome to my portfolio repository! This is a curated collection of my projects showcasing my skills in **Data Science**, **Data Analysis**, and **Software Development**. Below, you'll find projects spanning SQL, Power BI, Microsoft Excel, Machine Learning, C#, Java, HTML, and CSS. 
 
