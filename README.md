@@ -38,7 +38,7 @@ I am a passionate and dedicated data scientist and developer with expertise in e
 
 ### 2. **Programming Projects**
 - **C# Development**  
-  📌 **Project Name**: [Inventory Management System](#)  
+  📌 **Project Name**: [[Inventory Management System](https://github.com/ThobMvuni/CarHire-Database/blob/main)](#)  
   - Designed a Windows application to track and manage inventory.  
   - Used object-oriented programming and database integration for efficient management.  
 
