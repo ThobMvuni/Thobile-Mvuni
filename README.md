@@ -20,7 +20,7 @@ I am a passionate and dedicated data scientist and developer with expertise in e
   - Performed data cleaning and aggregation to create actionable insights.
 
 - **Power BI Dashboards**  
-  📌 **Project Name**: [Sales Performance Dashboard](#)  
+  📌 **Project Name**: [[Insurance Dashboard](https://github.com/ThobMvuni/Powerbi-dashboards/tree/main)](#)  
   - Built an interactive dashboard visualizing regional sales performance.  
   - Enhanced decision-making by identifying high-performing regions and trends.  
 
