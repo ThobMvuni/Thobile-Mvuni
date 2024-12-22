@@ -43,8 +43,8 @@ I am a passionate and dedicated data scientist and developer with expertise in e
   - Used object-oriented programming and database integration for efficient management.  
 
 - **Java Applications**  
-  📌 **Project Name**: [Library Management System](#)  
-  - Developed a Java-based system to manage books and users in a library.  
+  📌 **Project Name**: [[Job portal](https://github.com/ThobMvuni/Job_portal/tree/main)](#)
+  - Developed a Java-based system for job portal.  
   - Implemented file I/O and database connectivity for persistence.  
 
 - **Web Development (HTML & CSS)**  
