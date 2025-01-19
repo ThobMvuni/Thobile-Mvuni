@@ -24,16 +24,6 @@ I am a passionate and dedicated data scientist and developer with expertise in e
   - Built an interactive dashboard visualizing regional sales performance.  
   - Enhanced decision-making by identifying high-performing regions and trends.  
 
-- **Microsoft Excel Projects**  
-  📌 **Project Name**: [Budget Analysis](#)  
-  - Utilized pivot tables, charts, and formulas for financial analysis.  
-  - Automated data processing with macros for improved efficiency.  
-
-- **Machine Learning**  
-  📌 **Project Name**: [Predictive Modeling for Housing Prices](#)  
-  - Developed a regression model to predict housing prices based on features.  
-  - **Tools**: Python (Scikit-learn, Pandas, Matplotlib).  
-
 ---
 
 ### 2. **Programming Projects**
