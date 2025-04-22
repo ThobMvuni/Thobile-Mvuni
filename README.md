@@ -13,12 +13,6 @@ I am a passionate and dedicated data scientist and developer with expertise in e
 
 ## 📁 Project Highlights
 
-### 1. **Data Science and Analytics**
-- **SQL for Data Analysis**  
-  📌 **Project Name**: [E-Commerce Data Analysis](#)  
-  - Leveraged SQL queries to analyze customer behavior and sales trends.  
-  - Performed data cleaning and aggregation to create actionable insights.
-
 - **Power BI Dashboards**  
   📌 **Project Name**: [[Insurance Dashboard](https://github.com/ThobMvuni/Powerbi-dashboards/tree/main)](#)  
   - Built an interactive dashboard visualizing regional sales performance.  
@@ -38,7 +32,7 @@ I am a passionate and dedicated data scientist and developer with expertise in e
   - Implemented file I/O and database connectivity for persistence.  
 
 - **Web Development (HTML & CSS)**  
-  📌 **Project Name**: [Personal Blog Website](#)  
+  📌 **Project Name**: [[Personal Blog Website](https://github.com/ThobMvuni/Portfolio)}(#)  
   - Built a responsive blog website using HTML5 and CSS3.  
   - Enhanced user experience with animations and mobile-friendly design.  
 
