@@ -1,13 +1,11 @@
 # Thobile-Mvuni
 My portfolio readme
 
-# 📊 Thobile's Data Science and Programming Portfolio
-
 Welcome to my portfolio repository! This is a curated collection of my projects showcasing my skills in **Data Science**, **Data Analysis**, and **Software Development**. Below, you'll find projects spanning SQL, Power BI, Microsoft Excel, Machine Learning, C#, Java, HTML, and CSS. 
 
 ## 🚀 About Me
 
-I am a passionate and dedicated data scientist and developer with expertise in extracting insights from data, building interactive visualizations, and developing robust applications. My goal is to deliver impactful solutions to complex problems through the power of data and code.
+I am a passionate and dedicated junior software developer with expertise in extracting insights from data, building interactive visualizations, and developing robust applications. My goal is to deliver impactful solutions to complex problems through the power of data and code.
 
 ---
 
