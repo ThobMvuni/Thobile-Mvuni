@@ -20,7 +20,7 @@ I am a passionate and dedicated junior software developer with expertise in extr
 
 ### 2. **Programming Projects**
 - **C# Development**  
-  📌 **Project Name**: [[Inventory Management System](https://github.com/ThobMvuni/CarHire-Database/blob/main)](#)  
+  📌 **Project Name**: [[Inventory Management System](https://github.com/ThobMvuni/CarHireSystem)](#)  
   - Designed a Windows application to track and manage inventory.  
   - Used object-oriented programming and database integration for efficient management.  
 
