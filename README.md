@@ -51,7 +51,7 @@ I am a passionate and dedicated junior software developer with expertise in extr
 
 ## Notes
 🌟 Contact Me
-1. LinkedIn: Your LinkedIn Profile
-2. GitHub: https://github.com/yourusername
-3. Email: youremail@example.com
+1. LinkedIn:[(https://www.linkedin.com/in/thobile-mvuni/)]
+2. GitHub: (https://github.com/ThobMvuni)
+
 
